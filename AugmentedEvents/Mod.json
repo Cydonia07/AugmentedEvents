@@ -1,0 +1,11 @@
+﻿{
+    "Name": "AugmentedEvents",
+    "Enabled": true,
+    "Version": "v0.1",
+    "Description": "Allows the player to specify a multiplier for the various effects applied by events.",
+    "Author": "Cydonia07",
+    "Website": "https://github.com/Cydonia07/AugmentedEvents",
+    "Contact": "",
+	
+	"DLL": "AugmentedEvents.dll"
+}
